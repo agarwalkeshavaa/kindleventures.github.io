@@ -1,5 +1,7 @@
-Thanks for downloading this template!
+This website has been made for the kindleventures.com 
 
+
+Template details
 Template Name: eStartup
 Template URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
 Author: BootstrapMade.com
